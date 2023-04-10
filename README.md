@@ -1,10 +1,10 @@
-# Data Structures and Algorithm Cookbook
+# Algorithm Cookbook
 
-A collection of code snippets for implementing common data structures and algorithms in multiple programming languages. (This is currently a WIP repository).
+A collection of code snippets for implementing common algorithms in multiple programming languages. (This is currently a WIP repository).
 
 ## Introduction
 
-This repository provides code snippets for implementing common data structures and algorithms in multiple programming languages. It's meant to be a quick reference for developers who need to implement them in a language they're not familiar with, or for those who simply want to compare implementations across different languages.
+This repository provides code snippets for implementing common algorithms in multiple programming languages. It's meant to be a quick reference for developers who need to implement them in a language they're not familiar with, or for those who simply want to compare implementations across different languages.
 
 ## Contributing
 
